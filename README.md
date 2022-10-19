@@ -1,2 +1,2 @@
 # masai
-this project is for practicing basicgithub
+this project is for practicing basic github
